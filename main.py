@@ -7,7 +7,7 @@ def main():
 
 def test():
     print("Testing is important")
-
+    print("I don't like testing")
 
 if __name__ == '__main__':
     main()
