@@ -1,1 +1,2 @@
-print("dev")
+def show():
+    print("dev")

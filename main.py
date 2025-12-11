@@ -1,3 +1,5 @@
+import dev
+
 def main():
     print("Super toll")
     print("Next steps ...")
@@ -11,3 +13,5 @@ def test():
 
 if __name__ == '__main__':
     main()
+    dev.show()
+    
