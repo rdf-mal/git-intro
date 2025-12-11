@@ -5,6 +5,8 @@ def main():
     print("Another one")
     print("Very important")
 
+def test():
+    print("I don't like testing")
 
 if __name__ == '__main__':
     main()
