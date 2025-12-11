@@ -1,7 +1,3 @@
 # Git intro
 
-
-test slkdfjlisdfjlksd
-
-
-besonders wichtig
+Deep dive into git branching
